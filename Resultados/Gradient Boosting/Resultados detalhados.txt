@@ -1,0 +1,31 @@
+R2
+Best solution: [20.2339812   4.70095591  0.33706865]
+Best accuracy: [0.6799114849458812, [0.6799114849458812]]
+
+max_error
+Best solution: [134.67190401   4.77478308   0.89016582]
+Best accuracy: [-885.3551045550012, [-885.3551045550012]]
+
+max_error 02
+Best solution: [90.16635932  2.83515776  0.97783751]
+Best accuracy: [-884.131712852836, [-884.131712852836]]
+
+neg_mean_absolute_error
+Best solution: [38.00139608  9.90157559  1.        ]
+Best accuracy: [71.34426025003242, [71.34426025003242]]
+
+neg_median_absolute_error
+Best solution: [19.2807835  10.          0.99772626]
+Best accuracy: [7.352655455017493, [7.352655455017493]]
+
+neg_root_mean_squared_error
+Best solution: [18.81411412  5.06173602  0.33987828]
+Best accuracy: [138.71607374091514, [138.71607374091514]]
+
+neg_mean_absolute_percentage_error
+Best solution: [32.13293855  7.62485743  1.        ]
+Best accuracy: [5963232714761.99, [5963232714761.99]]
+
+
+
+

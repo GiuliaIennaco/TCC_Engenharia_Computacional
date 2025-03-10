@@ -1,0 +1,23 @@
+neg_mean_absolute_percentage_error
+Best solution: [  2.15398948 133.54143171]
+Best accuracy: [3689702427897253.5, [3689702427897253.5]]
+
+neg_root_mean_squared_error
+Best solution: [ 2.07512436 26.2900185 ]
+Best accuracy: [196.23150755464084, [196.23150755464084]]
+
+neg_median_absolute_error
+Best solution: [2.42020250e+00 6.49848196e+03]
+Best accuracy: [22.016392489610734, [22.016392489610734]]
+
+neg_mean_absolute_error
+Best solution: [2.10790757e+00 1.00000000e+04]
+Best accuracy: [102.18351914384213, [102.18351914384213]]
+
+max_error
+Best solution: [2.55653628e+00 1.00000000e+04]
+Best accuracy: [-429952.33268689906, [-429952.33268689906]]
+
+r2
+Best solution: [ 1.97794091 27.40305735]
+Best accuracy: [0.6036556586056109, [0.6036556586056109]]
