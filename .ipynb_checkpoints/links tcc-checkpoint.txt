@@ -1,0 +1,13 @@
+PangeaPy: https://pypi.org/project/pangaeapy/
+
+Base de dados: https://doi.pangaea.de/10.1594/PANGAEA.834911
+
+Regressão (Sklearn): https://github.com/thieu1995/mealpy/blob/master/examples/applications/sklearn/svm_classification.py
+Regressão (Pytorch): https://github.com/thieu1995/mealpy/blob/master/examples/applications/pytorch/linear_regression.py
+Visão funcional do problema: https://github.com/thieu1995/mealpy/blob/master/examples/applications/keras/mha-hybrid-mlp-classification.py
+
+__________________________________________________________________________
+download pangea: https://doi.pangaea.de/10.1594/PANGAEA.834911?format=html
+
+user: bsrnftp
+pwd: bsrn1
