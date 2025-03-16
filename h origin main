@@ -1,0 +1,162 @@
+[33mcommit 92109920004f48aef88b4f7f3262537ad3a02fee[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: GiuliaIennaco <giuliafiennaco@gmail.com>
+Date:   Sun Mar 16 17:50:31 2025 -0300
+
+    reorganizando arquivos
+
+[33mcommit 1192e62af373d403e576322fe3123a55db8dc165[m
+Merge: b49c404 3bd6af3
+Author: GiuliaIennaco <giuliafiennaco@gmail.com>
+Date:   Sun Mar 16 17:36:35 2025 -0300
+
+    Merge branch 'main' of https://github.com/GiuliaIennaco/TCC_Engenharia_Computacional
+
+[33mcommit 3bd6af3defb21a966970fc2570cca04443e8794f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Mar 16 17:35:34 2025 -0300
+
+    Delete testDataOriental.ipynb
+
+[33mcommit 0291b910f548d32823d73b981c5cb0a241eb06ac[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Mar 16 17:35:20 2025 -0300
+
+    Delete oriental_forest_5epoch_20pop.png
+
+[33mcommit 9a3a67897db83ed8440a367e6aae983e5e83e9bd[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Mar 16 17:35:13 2025 -0300
+
+    Delete ocidental_forest_5epoch_20pop.png
+
+[33mcommit e80aa4042f8a4da196cc38a59c7b967b8f2f85a2[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Mar 16 17:35:07 2025 -0300
+
+    Delete mapa_paises.png
+
+[33mcommit 46b2d97314743128768164a9226a42476c434497[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Mar 16 17:35:00 2025 -0300
+
+    Delete mapa_estacoes_oriental.png
+
+[33mcommit 90478a88b64cdf893deff66792da4eecd6a37d01[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Mar 16 17:34:54 2025 -0300
+
+    Delete mapa_estacoes_ocidental.png
+
+[33mcommit 3bf9658899028a245c17971e0f10873ac617d632[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Mar 16 17:34:46 2025 -0300
+
+    Delete links tcc.txt
+
+[33mcommit 38e44a517e0cf48a9ec18869273de0b484293ed5[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Mar 16 17:34:39 2025 -0300
+
+    Delete TCC Código - SVR.ipynb
+
+[33mcommit e5bb63de4c91bbc3c18ea78f5163b225a0afee0d[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Mar 16 17:34:31 2025 -0300
+
+    Delete TCC Código - Random Forest.ipynb
+
+[33mcommit eee4fcdc155376b89d2ebd33d6259d054a9ac89b[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Mar 16 17:34:24 2025 -0300
+
+    Delete TCC Código - Gradient Boosting.ipynb
+
+[33mcommit fa73139ac910d0a460617ba15fb1ca650bace917[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Mar 16 17:34:17 2025 -0300
+
+    Delete Resultados directory
+
+[33mcommit 42b36dbd659a04ca87a27c9b36d393e371f57dc5[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Mar 16 17:34:08 2025 -0300
+
+    Delete Map Creator.ipynb
+
+[33mcommit b49c4047b4cfa5d38b40c51a36cff62edd833b05[m
+Author: GiuliaIennaco <giuliafiennaco@gmail.com>
+Date:   Sun Mar 16 17:31:36 2025 -0300
+
+    Atualiza arvore git
+
+[33mcommit ff5aba212cd1e13be8f021014fc963a508c1a47f[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Mon Mar 10 15:06:40 2025 -0300
+
+    Add files via upload
+
+[33mcommit 8584ecee2c6c76fefc2946ff0fc429d42ca0e359[m
+Author: GiuliaIennaco <giuliafiennaco@gmail.com>
+Date:   Mon Mar 10 11:32:11 2025 -0300
+
+    upload
+
+[33mcommit 66f704302e61db58f5b43912adb9657b5e3a92d4[m
+Author: GiuliaIennaco <giuliafiennaco@gmail.com>
+Date:   Mon Mar 10 09:14:35 2025 -0300
+
+    upload arquivos
+
+[33mcommit 6b2fcb37459a5c8127e08a5d6aa11ea312193621[m
+Author: GiuliaIennaco <giuliafiennaco@gmail.com>
+Date:   Sat Mar 1 03:03:53 2025 -0300
+
+    Remove large files from tracking
+
+[33mcommit 2a2e7c467ba082c74ea71034482ea5b466cb1bd5[m
+Author: GiuliaIennaco <giuliafiennaco@gmail.com>
+Date:   Sat Mar 1 02:30:30 2025 -0300
+
+    Added large files to LFS
+
+[33mcommit 6fb942449611df07cf792af851296b43e4fec894[m
+Author: GiuliaIennaco <giuliafiennaco@gmail.com>
+Date:   Sat Mar 1 02:24:04 2025 -0300
+
+    Initial commit
+
+[33mcommit 42a7d6d2faf58c8f203c52a8092dd71842f8dc7e[m
+Author: Giulia <giuliafiennaco@gmail.com>
+Date:   Thu Jun 29 19:48:36 2023 -0300
+
+    23062023
+
+[33mcommit d0b15946fe91f6a3476a3dea489caa9a36d18a07[m
+Author: Giulia <giuliafiennaco@gmail.com>
+Date:   Fri Jun 2 10:04:57 2023 -0300
+
+    add resultados
+
+[33mcommit 6cea90a2829400bcaa05e506ffd080e27156bb5e[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sat May 13 01:40:41 2023 -0300
+
+    Add files via upload
+
+[33mcommit 8e443ca3269ee4c0b7bd502e2b4f255e9a82642d[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Jan 15 19:48:17 2023 -0300
+
+    Add files via upload
+
+[33mcommit aaf0520fa151e4f892cf81e3f275ee03afc853db[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Jan 15 19:47:53 2023 -0300
+
+    Delete BRB_radiation_2019.xlsx
+
+[33mcommit f389f0172436d60cdc909d247d7db923ef19ebd2[m
+Author: GiuliaIennaco <51454621+GiuliaIennaco@users.noreply.github.com>
+Date:   Sun Jan 15 19:35:30 2023 -0300
+
+    Add files via upload
